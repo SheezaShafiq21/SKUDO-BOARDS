@@ -38,7 +38,7 @@ git clone https://github.com/your-username/sudoku-solver.git
 cd sudoku-solver
 
 Run the solver:
-python sudoku_solver.py
+python sudoku_solver.ipynb
 
 Input Format:
 Each Sudoku puzzle is stored in a .txt file as a 9×9 grid of digits:
