@@ -32,14 +32,6 @@ After assigning a value, forward checking eliminates inconsistent values from ne
 Minimum Remaining Values (MRV):
 This heuristic selects the variable with the smallest domain first, improving efficiency by reducing branching.
 
-How to Run
-Clone the repository:
-git clone https://github.com/your-username/sudoku-solver.git
-cd sudoku-solver
-
-Run the solver:
-python sudoku_solver.ipynb
-
 Input Format:
 Each Sudoku puzzle is stored in a .txt file as a 9×9 grid of digits:
 
